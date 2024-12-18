@@ -6,20 +6,6 @@ Este proyecto presenta un **Análisis Exploratorio de Datos (EDA)** del índice 
 
 ---
 
-## 📑 **Índice de Contenidos**
-
-- [Introducción](#introducción)
-- [Hipótesis](#hipótesis)
-- [Análisis Precio de Cierre (2000–2024)](#análisis-precio-de-cierre-2000–2024)
-- [Líneas de Tendencia y Puntos Máximos y Mínimos 2024](#líneas-de-tendencia-y-puntos-máximos-y-mínimos-2024)
-- [Medias Móviles](#medias-móviles)
-- [Índice de Fuerza Relativa (RSI)](#índice-de-fuerza-relativa-rsi)
-- [Bandas de Bollinger](#bandas-de-bollinger)
-- [Predicción (Regresión Lineal)](#predicción-regresión-lineal)
-- [Conclusiones](#conclusiones)
-
----
-
 ## 📌 **Introducción**
 
 El S&P 500 es un índice bursátil compuesto por las 500 empresas más grandes de Estados Unidos, siendo un indicador clave del rendimiento del mercado accionario. Este análisis utiliza el **análisis técnico** como herramienta principal para evaluar la evolución histórica del índice, su comportamiento reciente y proyecciones futuras.
