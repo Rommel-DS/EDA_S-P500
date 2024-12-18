@@ -123,12 +123,6 @@ Se proyecta el comportamiento del índice para los próximos **30 días**:
 
 ---
 
-## 📌 **Licencia**
-
-Este proyecto se distribuye bajo la **Licencia MIT**.
-
----
-
 ## 📝 **Notas**
 
 El análisis aquí presentado es de carácter técnico y está sujeto a las fluctuaciones del mercado. Se recomienda validar los resultados con herramientas adicionales antes de tomar decisiones de inversión.
