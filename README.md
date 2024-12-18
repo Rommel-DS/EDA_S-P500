@@ -8,15 +8,15 @@ Este proyecto presenta un **Análisis Exploratorio de Datos (EDA)** del índice 
 
 ## 📑 **Índice de Contenidos**
 
-1. [Introducción](#introducción)  
-2. [Hipótesis](#hipótesis)  
-3. [Análisis Precio de Cierre (2000–2024)](#análisis-precio-de-cierre-2000-2024)  
-4. [Líneas de Tendencia y Puntos Máximos y Mínimos 2024](#líneas-de-tendencia-y-puntos-máximos-y-mínimos-2024)  
-5. [Medias Móviles](#medias-móviles)  
-6. [Índice de Fuerza Relativa (RSI)](#índice-de-fuerza-relativa-rsi)  
-7. [Bandas de Bollinger](#bandas-de-bollinger)  
-8. [Predicción (Regresión Lineal)](#predicción-regresión-lineal)  
-9. [Conclusiones](#conclusiones)  
+- [Introducción](#introducción)
+- [Hipótesis](#hipótesis)
+- [Análisis Precio de Cierre (2000–2024)](#análisis-precio-de-cierre-2000–2024)
+- [Líneas de Tendencia y Puntos Máximos y Mínimos 2024](#líneas-de-tendencia-y-puntos-máximos-y-mínimos-2024)
+- [Medias Móviles](#medias-móviles)
+- [Índice de Fuerza Relativa (RSI)](#índice-de-fuerza-relativa-rsi)
+- [Bandas de Bollinger](#bandas-de-bollinger)
+- [Predicción (Regresión Lineal)](#predicción-regresión-lineal)
+- [Conclusiones](#conclusiones)
 
 ---
 
